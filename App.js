@@ -16,7 +16,7 @@ export default function App(){
       <CartaoUsuario 
       nome='joão da Silva'
       descricao='Programador mobile'
-      img='perfil01'
+      img='perfil04'
       />
 
       <CartaoUsuario 
@@ -36,15 +36,15 @@ export default function App(){
             <CartaoUsuario 
       nome='jeovana'
       descricao='Programador mobile'
-      img='perfil04'
+      img='perfil02'
       />
 
 
 
             <CartaoUsuario 
-      nome='ana silva'
+      nome='gabriela'
       descricao='Programador mobile'
-      img='perfil05'
+      img='perfil01'
       />
 
   </ScrollView>
