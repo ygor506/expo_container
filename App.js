@@ -31,6 +31,13 @@ export default function App(){
       descricao='Programador mobile'
       img='perfil00'
       />
+
+
+            <CartaoUsuario 
+      nome='pedro silva'
+      descricao='Programador mobile'
+      img='perfil00'
+      />
   </ScrollView>
    
 
