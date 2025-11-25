@@ -14,20 +14,20 @@ export default function App(){
       <FotoPerfil />
 
       <CartaoUsuario 
-      nome='joão da Silva'
+      nome='joão  '
       descricao='Programador mobile'
       img='perfil04'
       />
 
       <CartaoUsuario 
-      nome='Maria Souza'
+      nome='Maria '
       descricao='Programador mobile'
       img='perfil02'
       />
 
 
       <CartaoUsuario 
-      nome='pedro silva'
+      nome='pedro'
       descricao='Programador mobile'
       img='perfil03'
       />
